@@ -1,0 +1,8 @@
+h1. Uniform Circular Motion (UCM)
+
+Animation of uniform circular motion and unit polar vectors.
+
+h2. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
+* "CEPALib":https://github.com/cepa-usp/cepalib-java
